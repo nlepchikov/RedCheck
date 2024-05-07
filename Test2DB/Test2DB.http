@@ -1,0 +1,6 @@
+﻿@Test2DB_HostAddress = http://localhost:5026
+
+GET {{Test2DB_HostAddress}}/parser/
+Accept: application/json
+
+###
